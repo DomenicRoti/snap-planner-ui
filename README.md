@@ -1,6 +1,7 @@
-# ui
+# ui > Snap Interactive - Take home test - Create a \"maintaince planner\"
 
-> Snap Interactive - Take home test - Create a \"maintaince planner\"
+## Install API First
+This app requires the api to work, setup the api first: https://github.com/DomenicRoti/snap-planner-api
 
 ## Build Setup
 
@@ -8,7 +9,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:9000
 npm run dev
 
 # build for production with minification
@@ -17,14 +18,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-# run unit tests
-npm run unit
-
 # run e2e tests
 npm run e2e
 
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+This requries Java to be installed
+This will run a test on the user registration process.
